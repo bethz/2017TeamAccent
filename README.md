@@ -7,6 +7,8 @@ Nicolae Duta, Microsoft
 
 Sharon Gillett, Microsoft
 
+TJ Hazen, Microsoft
+
 Beth Zeranski, Microsoft
 
 Anisha Baidya
